@@ -1,0 +1,5 @@
+com\iim\socioactivities\Controller\MainController.class
+com\iim\socioactivities\socioactivitiesApplication.class
+com\iim\socioactivities\Model\User.class
+com\iim\socioactivities\DAO\UserDAO.class
+com\iim\socioactivities\DAO\UserDAOImpl.class
