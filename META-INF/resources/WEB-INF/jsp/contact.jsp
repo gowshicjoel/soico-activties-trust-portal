@@ -34,17 +34,17 @@
 
 				<div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
 					<ul class="navbar-nav">
-						<li><a  href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="causes.html">Free Class</a></li>
-                        <li><a href="event.html">Blood Donation</a></li>
+						<li><a  href="\socioactivities">Home</a></li>
+                        <li><a href="about">About</a></li>
+                        <li><a href="Freeclass">Free Class</a></li>
+                        <li><a href="Blooddonation">Blood Donation</a></li>
                         <li>
-                            <a href="blog.html">
+                            <a href="Requests">
                                 Your Complaints
                             </a>
                             
                         </li>
-						<li><a class="active" href="contact.html">Contact</a></li>
+						<li><a class="active" href="contact">Contact</a></li>
 					</ul>
 				</div>
 			</div>
@@ -148,18 +148,18 @@
 			</div>
 		</div>
 	</footer>
-	<script src="socioactivities/src/main/resources/static/js/jquery-2.2.4.min.js"></script>
+	<script src="/js/jquery-2.2.4.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
 	 crossorigin="anonymous"></script>
-	<script src="socioactivities/src/main/resources/static/js/bootstrap.min.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/jquery.ajaxchimp.min.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/parallax.min.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/owl.carousel.min.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/isotope.pkgd.min.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/jquery.nice-select.min.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/jquery.magnific-popup.min.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/countdown.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/jquery.sticky.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/main.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<script src="/js/jquery.ajaxchimp.min.js"></script>
+	<script src="/js/parallax.min.js"></script>
+	<script src="/js/owl.carousel.min.js"></script>
+	<script src="/js/isotope.pkgd.min.js"></script>
+	<script src="/js/jquery.nice-select.min.js"></script>
+	<script src="/js/jquery.magnific-popup.min.js"></script>
+	<script src="/js/countdown.js"></script>
+	<script src="/js/jquery.sticky.js"></script>
+	<script src="/js/main.js"></script>
 </body>
 </html>

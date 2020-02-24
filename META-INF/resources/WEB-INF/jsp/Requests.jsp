@@ -13,13 +13,13 @@
 	<title>Sigaram Thodu</title>
 
 	<link href="" rel="stylesheet">
-	<link rel="stylesheet" href="font-awesome.min.css">
-	<link rel="stylesheet" href="themify-icons.css">
-	<link rel="stylesheet" href="bootstrap.css">
-	<link rel="stylesheet" href="owl.carousel.css">
-	<link rel="stylesheet" href="magnific-popup.css">
-	<link rel="stylesheet" href="nice-select.css">
-	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/themify-icons.css">
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/owl.carousel.css">
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<link rel="stylesheet" href="css/nice-select.css">
+	<link rel="stylesheet" href="css/main.css">
 </head>
 <body>
 <header class="default-header">
@@ -35,17 +35,17 @@
 
 				<div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
 					<ul class="navbar-nav">
-						<li><a href="index.html">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="causes.html">Free Class</a></li>
-                        <li><a href="event.html">Blood Donation</a></li>
+						<li><a href="\socioactivities">Home</a></li>
+                        <li><a href="about">About</a></li>
+                        <li><a href="Freeclass">Free Class</a></li>
+                        <li><a href="Blooddonation">Blood Donation</a></li>
                         <li>
-                            <a class="active" href="blog.html">
+                            <a class="active" href="Requests">
                                 Your Requests
                             </a>
                             
                         </li>
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="contact">Contact</a></li>
 					</ul>
 				</div>
 			</div>

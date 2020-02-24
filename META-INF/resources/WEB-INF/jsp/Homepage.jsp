@@ -18,13 +18,13 @@
 	<title>Sigaram Thodu</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400" rel="stylesheet">
-	<link rel="stylesheet" href="font-awesome.min.css">
-	<link rel="stylesheet" href="themify-icons.css">
-	<link rel="stylesheet" href="bootstrap.css">
-	<link rel="stylesheet" href="owl.scarousel.css">
-	<link rel="stylesheet" href="magnific-popup.css">
-	<link rel="stylesheet" href="nice-select.css">
-	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/themify-icons.css">
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/owl.scarousel.css">
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<link rel="stylesheet" href="css/nice-select.css">
+	<link rel="stylesheet" href="css/main.css">
 </head>
 <body>
 <header class="default-header">
@@ -40,19 +40,19 @@
 
 				<div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
 					<ul class="navbar-nav">
-						<li><a class="active" href="index.html">Home</a></li>
-						<li><a href="about.html">About</a></li>
-						<li><a href="causes.html">Free Class</a></li>
-						<li><a href="event.html">Blood Donation</a></li>
+						<li><a class="active" href="Homepage">Home</a></li>
+						<li><a href="/about">About</a></li>
+						<li><a href="Freeclass">Free Class</a></li>
+						<li><a href="Blooddonation">Blood Donation</a></li>
 						<li>
-							<a href="blog.html">
+							<a href="Requests">
 								Your Requests
 							</a>
 							
 						</li>
-					<li><a href="contact.html">Contact</a></li>
-					<button onclick="window.location.href ='file:///E:/Software/charilife/colorlib-regform-4/index.html'";class="btn signup">Sign Up</button>
-					<button onclick="window.location.href ='file:///E:/Software/charilife/Login_v1/index.html'";class="btn signin">Sign In</button>
+					<li><a href="contact">Contact</a></li>
+					<button onclick="window.location.href ='userregister'";class="btn signup">Sign Up</button>
+					<button onclick="window.location.href ='userlogin'";class="btn signin">Sign In</button>
 					</ul>
 				</div>
 			</div>
@@ -171,7 +171,7 @@
 								</a> -->
 						<p>In that Our I own life unto lights them two appear days rule thing fly main for main cause fowl itself dry
 							from made main cause fowl itself dry.</p>
-						<a href="#" class="primary-btn mt-5">
+						<a href='userregister' class="primary-btn mt-5">
 							Sign up
 							<i class="ti-angle-right ml-1"></i>
 						</a>
@@ -289,19 +289,19 @@
 			</div>
 		</div>
 	</footer>
-	<script src="/js/jquery-2.2.4.min.js"></script>
+	<script src="js/jquery-2.2.4.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
 	 crossorigin="anonymous"></script>
-	<script src="/js/bootstrap.min.js"></script>
-	<script src="/js/jquery.ajaxchimp.min.js"></script>
-	<script src="/js/parallax.min.js"></script>
-	<script src="/js/owl.carousel.min.js"></script>
-	<script src="/js/isotope.pkgd.min.js"></script>
-	<script src="/js/jquery.nice-select.min.js"></script>
-	<script src="/js/jquery.magnific-popup.min.js"></script>
-	<script src="/js/countdown.js"></script>
-	<script src="/js/jquery.sticky.js"></script>
-	<script src="/js/main.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.ajaxchimp.min.js"></script>
+	<script src="js/parallax.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/isotope.pkgd.min.js"></script>
+	<script src="js/jquery.nice-select.min.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/countdown.js"></script>
+	<script src="js/jquery.sticky.js"></script>
+	<script src="js/main.js"></script>
 
 </body>
 </html>

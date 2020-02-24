@@ -12,13 +12,13 @@
 	<title>Sigaram Thodu</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400" rel="stylesheet">
-	<link rel="stylesheet" href="font-awesome.min.css">
-	<link rel="stylesheet" href="themify-icons.css">
-	<link rel="stylesheet" href="bootstrap.css">
-	<link rel="stylesheet" href="owl.carousel.css">
-	<link rel="stylesheet" href="magnific-popup.css">
-	<link rel="stylesheet" href="nice-select.css">
-	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/themify-icons.css">
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/owl.carousel.css">
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<link rel="stylesheet" href="css/nice-select.css">
+	<link rel="stylesheet" href="css/main.css">
 </head>
 <body>
 <header class="default-header">
@@ -34,17 +34,17 @@
 
 				<div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
 					<ul class="navbar-nav">
-						<li><a  href="index.html">Home</a></li>
-						<li><a href="about.html">About</a></li>
-						<li><a href="causes.html">Free Class</a></li>
-						<li><a class="active" href="event.html">Blood Donation</a></li>
+						<li><a  href="\socioactivities">Home</a></li>
+						<li><a href="about">About</a></li>
+						<li><a href="Freeclass">Free Class</a></li>
+						<li><a class="active" href="Blooddonation">Blood Donation</a></li>
 						<li>
-							<a href="blog.html">
+							<a href="Requests">
 								Your Requests
 							</a>
 							
 						</li>
-						<li><a href="contact.html">Contact</a></li>
+						<li><a href="contact">Contact</a></li>
 					</ul>
 				</div>
 			</div>
@@ -61,6 +61,9 @@
 			</div>
 		</div>
 	</section>
+	<!--================ End banner Area =================-->
+
+	<!--================ Start Upcoming Event Area =================-->
 	<section class="upcoming_event_area section-gap-top">
 		<div class="container">
 			<button align="right" onclick="window.location.href ='file:///E:/Software/charilife/colorlib-regform-15/index.html'" class="btn btn--radius-2 btn--blue" type="blooddonars">Blood Donars</button>
@@ -80,7 +83,7 @@
 						<div class="row align-items-center">
 							<div class="col-lg-6 col-md-6">
 								<figure>
-									<img class="img-fluid w-100" src="C:\Users\hp\Downloads\download (1).jpg" alt="">
+									<img class="img-fluid w-100" src="E:\Software\charilife\img\event\download (1).jpg" alt="">
 									<div class="date">
 										17 Mar
 									</div>
@@ -119,7 +122,7 @@
 						<div class="row align-items-center">
 							<div class="col-lg-6 col-md-6">
 								<figure>
-									<img class="img-fluid w-100" src="C:\Users\hp\Downloads\download (2).jpg" alt="">
+									<img class="img-fluid w-100" src="E:\Software\charilife\img\event\download (2).jpg" alt="">
 									<div class="date">
 										19 May
 									</div>
@@ -159,7 +162,7 @@
 						<div class="row align-items-center">
 							<div class="col-lg-6 col-md-6">
 								<figure>
-									<img class="img-fluid w-100" src="C:\Users\hp\Downloads\download (3).jpg" alt="">
+									<img class="img-fluid w-100" src="E:\Software\charilife\img\event\download (3).jpg" alt="">
 									<div class="date">
 										10 June
 									</div>
@@ -200,7 +203,7 @@
 						<div class="row align-items-center">
 							<div class="col-lg-6 col-md-6">
 								<figure>
-									<img class="img-fluid w-100" src="C:\Users\hp\Downloads\download (4).jpg" alt="">
+									<img class="img-fluid w-100" src="E:\Software\charilife\img\event\download (4).jpg" alt="">
 									<div class="date">
 										18 July
 									</div>
@@ -237,7 +240,7 @@
 			</div>
 		</div>
 	</section>
-	<footer class="footer">
+		<footer class="footer">
 		<div class="footer-area">
 			<div class="container">
 				<div class="row section_gap">
@@ -293,18 +296,18 @@
 			</div>
 		</div>
 	</footer>
-	<script src="socioactivities/src/main/resources/static/js/jquery-2.2.4.min.js"></script>
+	<script src="/js/jquery-2.2.4.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
 	 crossorigin="anonymous"></script>
-	<script src="socioactivities/src/main/resources/static/js/bootstrap.min.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/jquery.ajaxchimp.min.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/parallax.min.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/owl.carousel.min.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/isotope.pkgd.min.js"></script>
-	<script src="socioactivities/src/main/resources//staticjs/jquery.nice-select.min.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/jquery.magnific-popup.min.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/countdown.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/jquery.sticky.js"></script>
-	<script src="socioactivities/src/main/resources/static/js/main.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	<script src="/js/jquery.ajaxchimp.min.js"></script>
+	<script src="/js/parallax.min.js"></script>
+	<script src="/js/owl.carousel.min.js"></script>
+	<script src="/js/isotope.pkgd.min.js"></script>
+	<script src="/js/jquery.nice-select.min.js"></script>
+	<script src="/js/jquery.magnific-popup.min.js"></script>
+	<script src="/js/countdown.js"></script>
+	<script src="/js/jquery.sticky.js"></script>
+	<script src="/js/main.js"></script>
 </body>
 </html>
